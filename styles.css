@@ -1,0 +1,5 @@
+.block .content .mymentors_pic .userpicture{width:30px;height:30px;padding:2px;}
+.mymentors_mentor{overflow:hidden;}
+.mymentors_pic{float:left;}
+.mymentors_online{color:#0f0;}
+.mymentors_offline{color:#f00;}
