@@ -24,6 +24,6 @@
  */
 
 $string['configtitle'] = 'Block title';
-$string['pluginname'] = 'My mentors';
+$string['pluginname'] = 'my mentors';
 $string['online'] = 'Online';
 $string['offline'] = 'Offline';
