@@ -24,6 +24,8 @@
  */
 
 $string['configtitle'] = 'Block title';
-$string['pluginname'] = 'my mentors';
+$string['pluginname'] = 'My mentors';
 $string['online'] = 'Online';
 $string['offline'] = 'Offline';
+$string['mymentors:addinstance'] = 'Add a My mentors block';
+$string['mymentors:myaddinstance'] = 'Add a My mentors block to My Moodle';
